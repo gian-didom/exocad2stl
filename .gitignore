@@ -1,0 +1,5 @@
+.env
+cronlog.out
+cronlog21.out
+exocad2stl.sh
+__pycache__
