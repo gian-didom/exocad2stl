@@ -1,5 +1,4 @@
 import json, dotenv, base64, requests, os
-from flask import Flask
 from setproctitle import setproctitle
 from telegram_utils import OpenCTMConverterTelegramBot
 

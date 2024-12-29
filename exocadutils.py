@@ -3,7 +3,7 @@
 
 from html.parser import HTMLParser
 from openctm.bindings.python.openctm import *
-import trimesh, ctypes, requests, base64, json, base64, os
+import trimesh, ctypes, requests, base64, json, os
 from typing import List
 
 class ScriptTagParser(HTMLParser):

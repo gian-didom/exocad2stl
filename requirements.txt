@@ -1,0 +1,6 @@
+trimesh==4.4.1
+requests==2.31.0
+typing-extensions==4.7.1
+python-telegram-bot==20.3
+setproctitle==1.2.2
+python-dotenv==0.21.1

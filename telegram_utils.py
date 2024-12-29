@@ -1,4 +1,4 @@
-import logging, os, subprocess, json
+import logging, os
 from telegram.ext import Updater, MessageHandler, filters, CallbackContext, CommandHandler, ContextTypes
 from telegram import Update
 from telegram.ext import ApplicationBuilder
